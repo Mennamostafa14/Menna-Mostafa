@@ -8,7 +8,7 @@
 
 ### 💫 About Me
 🌱 I'm deeply passionate about **Artificial Intelligence**, **Data Science**, and how data can drive smarter decisions.  
-🎓 I'm currently studying **Computer Science** and exploring **Machine Learning**, **Deep Learning**, and **Data Engineering**.  
+🎓 I'm currently studying **Computer Science** and exploring **Machine Learning**, **Deep Learning**, and **NLP**.  
 💡 I enjoy transforming raw data into meaningful insights and intelligent systems.  
 🚀 My goal is to build impactful AI solutions that make life easier and smarter.  
 
