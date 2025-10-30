@@ -14,41 +14,35 @@
 
 ---
 
-### 🧠 Technical Skills
+## 🧠 Technical Skills
 
-<!-- First row -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,azure,git,github,vscode,anaconda,jupyter" />
-</p>
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-<!-- Second row (AI / Data) -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,pandas,numpy,matplotlib" />
-</p>
+### 🤖 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)
 
-<!-- Shields for missing tools -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSIS-0078D7?style=flat&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETL-4CAF50?style=flat&logo=airbyte&logoColor=white" />
-</p>
+### 🗄️ Data Engineering & Tools
+![SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![SSIS](https://img.shields.io/badge/-SSIS-0078D7?style=flat&logo=microsoft&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/-Azure%20SQL%20Database-007FFF?style=flat&logo=azure-sql-database&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
+![ETL](https://img.shields.io/badge/-ETL-4B8BBE?style=flat)
 
----
-
-**Programming Languages:**  
-`Python` • `SQL` • `C++`  
-
-**AI & Machine Learning:**  
-`TensorFlow` • `Keras` • `PyTorch` • `Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib`  
-
-**Data Engineering & Tools:**  
-`Microsoft SQL Server` • `SSIS` • `Azure SQL Database` • `Power BI` • `ETL`  
-
-**Other Tools:**  
-`Git` • `GitHub` • `Jupyter Notebook` • `VS Code` • `Anaconda`  
-
+### 🧰 Other Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 
 
 ### 🌟 Tech Stack Badges
