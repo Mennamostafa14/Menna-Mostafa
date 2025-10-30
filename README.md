@@ -1,7 +1,7 @@
 <!-- Animated GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F74C7E&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Menna+Mostafa;AI+%26+Data+Science+Enthusiast;Computer+Science+Student;Data+Engineer+in+Progress" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F74C7E&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Menna+Mostafa;AI+%26+Data+Science+Enthusiast;Computer+Science+Student;Genrative+AI+Engineer+in+Progress" alt="Typing Animation" />
 </h1>
 
 ---
@@ -24,7 +24,6 @@
 ### 🤖 AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -34,7 +33,6 @@
 ![SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![SSIS](https://img.shields.io/badge/-SSIS-0078D7?style=flat&logo=microsoft&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/-Azure%20SQL%20Database-007FFF?style=flat&logo=azure-sql-database&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
 ![ETL](https://img.shields.io/badge/-ETL-4B8BBE?style=flat)
 
 ### 🧰 Other Tools
@@ -44,10 +42,11 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 
+---
 
 ### 🌟 Tech Stack Badges
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,sklearn,azure,pandas,numpy,matplotlib,sqlserver,powerbi,git,github,vscode,anaconda" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,sklearn,azure,pandas,numpy,matplotlib,sqlserver,git,github,vscode,anaconda" />
 </p>
 
 ---
@@ -79,7 +78,7 @@
   <a href="https://www.linkedin.com/in/menna-mostafa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:menna.mostafa@example.com" target="_blank">
+  <a href="mailto:mennamo142005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
