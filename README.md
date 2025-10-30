@@ -1,64 +1,79 @@
-<!-- Animated Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF007F&center=true&vCenter=true&width=550&lines=Hi+I'm+Menna+Mostafa+👋;AI+%26+Data+Science+Enthusiast;Machine+Learning+Explorer;Python+Lover+🐍" />
-</p>
+<!-- Animated GitHub Profile README -->
 
-<!-- Header GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F74C7E&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Menna+Mostafa;AI+%26+Data+Science+Enthusiast;Computer+Science+Student;Data+Engineer+in+Progress" alt="Typing Animation" />
+</h1>
 
 ---
 
-<h2 align="center">💫 About Me</h2>
-
-I'm **Menna Mostafa**, a Computer Science student and passionate **AI & Data Science** enthusiast.  
-I’m driven by curiosity about how data and machine learning can make intelligent systems that improve everyday life.  
-
-- 🌱 I’m currently learning **Machine Learning** and **Deep Learning**.  
-- 💻 My main programming language is **Python** 🐍.  
-- ⚙️ I enjoy working with **data pipelines**, **ETL processes**, and **cloud databases**.  
-- 🎯 My goal: to build smart, scalable AI solutions that create real-world impact.  
+### 💫 About Me
+🌱 I'm deeply passionate about **Artificial Intelligence**, **Data Science**, and how data can drive smarter decisions.  
+🎓 I'm currently studying **Computer Science** and exploring **Machine Learning**, **Deep Learning**, and **Data Engineering**.  
+💡 I enjoy transforming raw data into meaningful insights and intelligent systems.  
+🚀 My goal is to build impactful AI solutions that make life easier and smarter.  
 
 ---
 
-<h2 align="center">🧠 Technical Skills</h2>
+### 🧠 Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,tensorflow,keras,sklearn,pandas,numpy,matplotlib,mysql,azure,git,github,vscode,anaconda&perline=7" />
-</p>
+**Programming Languages:**  
+`Python` • `SQL` • `C++`  
+
+**AI & Machine Learning:**  
+`TensorFlow` • `Keras` • `Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib`  
+
+**Data Engineering & Tools:**  
+`Microsoft SQL Server` • `SSIS` • `Azure SQL Database` • `Power BI` • `ETL`  
+
+**Other Tools:**  
+`Git` • `GitHub` • `Jupyter Notebook` • `VS Code` • `Anaconda`  
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
+### 🌟 Tech Stack Badges
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mennamostafa14&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mennamostafa14&layout=compact&theme=radical" height="165" />
-</p>
-
----
-
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mennamostafa14&theme=radical&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,sklearn,azure,pandas,numpy,matplotlib,sqlserver,powerbi,git,github,vscode,anaconda" />
 </p>
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mennamostafa14&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mennamostafa14&layout=compact&theme=radical" height="165"/>
+</p>
 
+---
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mennamostafa14&theme=radical&hide_border=true" alt="Menna's Streak"/>
+</p>
+
+---
+
+### 💻 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mennamostafa14&theme=redical" alt="activity graph"/>
+</p>
+
+---
+
+### 🌍 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/menna-mostafa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:menna.mostafa@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  <a href="mailto:menna.mostafa@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile ✨</p>
+### ⚡ Fun Fact
+I love solving challenges, learning new tech stacks, and turning data into stories that matter.  
 
+---
+
+⭐️ *"Data is not just numbers — it’s the voice of reality, and AI helps us understand what it’s saying."*
