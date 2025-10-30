@@ -1,13 +1,13 @@
 # Menna-Mostafa
 About Me
 <h1 align="center">Hi 👋, I'm Menna Mostafa</h1>
-<h3 align="center">AI & Data Science Enthusiast | Computer Science Student | Data Engineer in Progress</h3>
+<h3 align="center">AI & Data Science Enthusiast | Computer Science Student | Genrative AI in Progress</h3>
 
 ---
 
 ### 💫 About Me
 🌱 I'm deeply passionate about **Artificial Intelligence**, **Data Science**, and how data can drive smarter decisions.  
-🎓 I'm currently studying **Computer Science** and exploring **Machine Learning**, **Deep Learning**, and **Data Engineering**.  
+🎓 I'm currently studying **Computer Science** and exploring **Machine Learning**, **Deep Learning**, and **NLP**.  
 💡 I enjoy transforming raw data into meaningful insights and intelligent systems.  
 🚀 My goal is to build impactful AI solutions that make life easier and smarter.  
 
