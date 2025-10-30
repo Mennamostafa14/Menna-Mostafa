@@ -15,19 +15,42 @@ About Me
 
 ### 🧠 Technical Skills
 
-**Programming Languages:**  
-`Python` • `SQL` • `C++`  
+**👩‍💻 Programming Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+</p>
 
-**AI & Machine Learning:**  
-`TensorFlow` • `Keras` • `Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib`  
+**🤖 AI & Machine Learning**
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" />
+</p>
 
-**Data Engineering & Tools:**  
-`Microsoft SQL Server` • `SSIS` • `Azure SQL Database`  • `ETL`  
+**🧩 Data Engineering & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSIS-0078D7?style=flat&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20SQL%20Database-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-4CAF50?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTggNnYySDZ2MTBoMTJWMThoLTJ2Mkg4eiIvPjxwYXRoIGQ9Ik0yMCAxMmgtNHYySDl2LTJoLTJWOGgydjJoNnYtMmgydjR6Ii8+PC9zdmc+" />
+</p>
 
-**Other Tools:**  
-`Git` • `GitHub` • `Jupyter Notebook` • `VS Code` • `Anaconda`  
+**🛠️ Other Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
+</p>
 
 ---
+
 
 ### 🌟 Tech Stack Badges
 <p align="left">
@@ -46,6 +69,11 @@ About Me
   <img src="https://github-readme-stats.vercel.app/api?username=menna-mostafa&show_icons=true&theme=radical" alt="menna's GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menna-mostafa&layout=compact&theme=radical" height="165" />
 </p>
+
+<p align="center">
+  🐍 <b>Python</b> is my main programming language — it’s the one I use the most for AI, Data Science, and Machine Learning projects.
+</p>
+
 
 ---
 
