@@ -1,5 +1,4 @@
-# Menna-Mostafa
-About Me
+
 <h1 align="center">Hi 👋, I'm Menna Mostafa</h1>
 <h3 align="center">AI & Data Science Enthusiast | Computer Science Student | Genrative AI in Progress</h3>
 
@@ -67,7 +66,7 @@ About Me
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mennamostafa14&show_icons=true&theme=radical" alt="menna's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menna-mostafa&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mennamostafa14&layout=compact&theme=radical" height="165" />
 </p>
 
 
