@@ -16,19 +16,106 @@
 
 ### 🧠 Technical Skills
 
-**Programming Languages:**  
-`Python` • `SQL` • `C++`  
+<div align="center">
 
-**AI & Machine Learning:**  
-`TensorFlow` • `Keras` • `Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib`  
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /><br>
+      <strong>Python</strong>
+    </td>
 
-**Data Engineering & Tools:**  
-`Microsoft SQL Server` • `SSIS` • `Azure SQL Database` • `Power BI` • `ETL`  
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=mysql&logoColor=white" alt="SQL" /><br>
+      <strong>SQL</strong>
+    </td>
 
-**Other Tools:**  
-`Git` • `GitHub` • `Jupyter Notebook` • `VS Code` • `Anaconda`  
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" /><br>
+      <strong>C++</strong>
+    </td>
 
----
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" /><br>
+      <strong>TensorFlow</strong>
+    </td>
+
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" /><br>
+      <strong>Keras</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="120" style="padding-top:12px">
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn" /><br>
+      <strong>Scikit-learn</strong>
+    </td>
+
+    <td align="center" width="120" style="padding-top:12px">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" /><br>
+      <strong>Pandas</strong>
+    </td>
+    <td align="center" width="120" style="padding-top:12px">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" /><br>
+      <strong>NumPy</strong>
+    </td>
+    <td align="center" width="120" style="padding-top:12px">
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" /><br>
+      <strong>Matplotlib</strong>
+    </td>
+    <td align="center" width="120" style="padding-top:12px">
+      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /><br>
+      <strong>SQL Server</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120" style="padding-top:12px">
+      <img src="https://img.shields.io/badge/SSIS-0078D7?style=flat&logo=microsoft&logoColor=white" alt="SSIS" /><br>
+      <strong>SSIS</strong>
+    </td>
+    <td align="center" width="120" style="padding-top:12px">
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure" /><br>
+      <strong>Azure</strong>
+    </td>
+    <td align="center" width="120" style="padding-top:12px">
+      <img src="https://img.shields.io/badge/ETL-4CAF50?style=flat&logo=airbyte&logoColor=white" alt="ETL" /><br>
+      <strong>ETL</strong>
+    </td>
+
+    <td align="center" width="120" style="padding-top:12px">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /><br>
+      <strong>Git</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="120" style="padding-top:12px">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /><br>
+      <strong>GitHub</strong>
+    </td>
+
+    <td align="center" width="120" style="padding-top:12px">
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" /><br>
+      <strong>Jupyter</strong>
+    </td>
+
+    <td align="center" width="120" style="padding-top:12px">
+      <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" /><br>
+      <strong>VS Code</strong>
+    </td>
+
+    <td align="center" width="120" style="padding-top:12px">
+      <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" alt="Anaconda" /><br>
+      <strong>Anaconda</strong>
+    </td>
+
+    <td></td>
+  </tr>
+</table>
+
+</div>
+
 
 ### 🌟 Tech Stack Badges
 <p align="center">
